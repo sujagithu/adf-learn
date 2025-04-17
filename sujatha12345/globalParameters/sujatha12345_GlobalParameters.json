@@ -1,0 +1,6 @@
+{
+	"G_Waittime": {
+		"type": "int",
+		"value": 20
+	}
+}
