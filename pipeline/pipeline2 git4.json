@@ -1,0 +1,22 @@
+{
+	"name": "pipeline2 git4",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"parameters": {
+			"p": {
+				"type": "int"
+			}
+		},
+		"annotations": []
+	}
+}
