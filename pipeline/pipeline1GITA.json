@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "pipeline1GITA",
 	"properties": {
 		"activities": [
 			{
@@ -12,12 +12,6 @@
 				}
 			}
 		],
-		"parameters": {
-			"p1": {
-				"type": "int",
-				"defaultValue": 10
-			}
-		},
 		"annotations": []
 	}
 }
