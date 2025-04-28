@@ -36,7 +36,8 @@
 				},
 				"parameters": {
 					"A": {
-						"type": "int"
+						"type": "int",
+						"defaultValue": 3
 					}
 				},
 				"annotations": []
